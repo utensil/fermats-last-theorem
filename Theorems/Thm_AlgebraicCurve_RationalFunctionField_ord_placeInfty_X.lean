@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_AlgebraicCurve_DivisorClassGroup
 import Definitions.Def_AlgebraicCurve_PlaceEvaluation
 import Definitions.Def_AlgebraicCurve_DivisorPushPull

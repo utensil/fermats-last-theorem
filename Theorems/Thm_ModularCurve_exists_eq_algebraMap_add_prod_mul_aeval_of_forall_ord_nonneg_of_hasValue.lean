@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_ModularCurve_SpecializeModuli
 import Definitions.Def_AlgebraicCurve_RatFuncPlaceInfty
 import Definitions.Def_AlgebraicCurve_GluedPic0

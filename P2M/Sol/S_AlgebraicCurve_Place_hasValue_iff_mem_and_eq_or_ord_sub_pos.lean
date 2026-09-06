@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_AlgebraicCurve_GluedPic0
 import P2M.Util
 namespace P2MW.S_AlgebraicCurve_Place_hasValue_iff_mem_and_eq_or_ord_sub_pos

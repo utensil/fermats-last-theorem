@@ -1,4 +1,3 @@
-import Mathlib
 import Mathlib.FieldTheory.RatFunc.Degree
 import Mathlib.FieldTheory.IsAlgClosed.Basic
 import Definitions.Def_AlgebraicCurve_RatFuncPlaceInfty

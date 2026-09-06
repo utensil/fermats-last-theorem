@@ -1,4 +1,4 @@
-import Mathlib
+import Mathlib.Algebra.Polynomial.Basis
 import Definitions.Def_AlgebraicCurve_DivisorClassGroup
 import Definitions.Def_AlgebraicCurve_DivisorPushPull
 import Definitions.Def_AlgebraicCurve_Repartitions
