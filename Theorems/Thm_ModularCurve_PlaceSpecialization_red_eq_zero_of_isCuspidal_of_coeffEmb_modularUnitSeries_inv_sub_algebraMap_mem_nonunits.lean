@@ -1,5 +1,6 @@
 import Mathlib
 import Definitions.Def_ModularCurve_LevelOneProlongationPair
+import Definitions.Def_ModularCurve_NodeLocalizedPresentation
 import Definitions.Def_ModularCurve_ModularUnit
 import P2M.Sol.S_ModularCurve_modularUnitSeries_mem_modularFunctionFieldFull
 import P2M.Util
