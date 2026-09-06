@@ -1,4 +1,4 @@
-import Mathlib
+import Mathlib.RingTheory.Ideal.Quotient.Defs
 
 section
 
