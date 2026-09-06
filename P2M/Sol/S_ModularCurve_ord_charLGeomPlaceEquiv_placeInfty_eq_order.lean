@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_ModularCurve_SpecializeModuli
 import Definitions.Def_AlgebraicCurve_RatFuncPlaceInfty
 import P2M.Sol.S_AlgebraicCurve_RationalFunctionField_ord_placeInfty

@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_ModularCurve_SpecializeModuli
 import Definitions.Def_AlgebraicCurve_RatFuncPlaceInfty
 import Theorems.Thm_ModularCurve_ord_charLGeomPlaceEquiv_placeInfty_eq_order
