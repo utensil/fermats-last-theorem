@@ -1,4 +1,4 @@
-import Mathlib
+import Mathlib.RingTheory.LocalRing.RingHom.Basic
 
 variable {R : Type*} [CommRing R] [IsLocalRing R] (I : Ideal R) [Nontrivial (R ⧸ I)]
 
