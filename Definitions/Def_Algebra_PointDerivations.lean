@@ -1,4 +1,6 @@
-import Mathlib
+import Mathlib.Algebra.Module.Submodule.Basic
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Tactic.Abel
 
 set_option autoImplicit false
 

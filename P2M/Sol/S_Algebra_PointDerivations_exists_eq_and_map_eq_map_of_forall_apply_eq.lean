@@ -1,11 +1,8 @@
-import Mathlib
 import Definitions.Def_Algebra_PointDerivations
 import P2M.Util
 namespace P2MW.S_Algebra_PointDerivations_exists_eq_and_map_eq_map_of_forall_apply_eq
 
 set_option autoImplicit false
-
-open TensorProduct
 
 universe u
 
