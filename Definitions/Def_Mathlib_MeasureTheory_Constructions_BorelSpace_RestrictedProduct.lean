@@ -1,4 +1,5 @@
-import Mathlib
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Basic
+import Mathlib.Topology.Algebra.RestrictedProduct.TopologicalSpace
 
 section
 
