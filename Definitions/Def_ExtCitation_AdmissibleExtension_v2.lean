@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_ExtCitation_AdmissibleExtension
 
 set_option autoImplicit false
