@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_ModularCurve_HeckeOperatorTotal
 
 set_option autoImplicit false
