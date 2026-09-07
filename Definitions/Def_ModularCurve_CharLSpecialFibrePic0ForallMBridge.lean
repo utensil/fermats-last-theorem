@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_ModularCurve_CharLFrobeniusGeomLevel
 
 set_option autoImplicit false
