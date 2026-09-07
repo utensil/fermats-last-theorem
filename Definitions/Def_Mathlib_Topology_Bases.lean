@@ -1,4 +1,5 @@
-import Mathlib
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Homeomorph.Lemmas
 
 section
 
