@@ -1,4 +1,4 @@
-import Mathlib
+import Mathlib.NumberTheory.ModularForms.EisensteinSeries.Defs
 
 namespace EisensteinSeries
 
