@@ -1,4 +1,5 @@
-import Mathlib
+import Mathlib.Data.Nat.Find
+import Mathlib.Data.Nat.Choose.Basic
 
 set_option autoImplicit false
 
