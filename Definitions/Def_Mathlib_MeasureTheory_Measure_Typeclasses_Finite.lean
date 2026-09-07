@@ -1,4 +1,6 @@
-import Mathlib
+import Mathlib.MeasureTheory.Measure.Typeclasses.Finite
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Basic
+import Mathlib.Topology.Maps.Basic
 
 section
 
