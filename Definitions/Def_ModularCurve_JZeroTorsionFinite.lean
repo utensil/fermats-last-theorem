@@ -1,4 +1,3 @@
-import Mathlib
 import Definitions.Def_FLTPrelim_FreyPackage
 import Definitions.Def_ModularCurve_ArithmeticGalois
 
