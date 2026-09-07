@@ -1,4 +1,4 @@
-import Mathlib
+import Mathlib.Topology.Algebra.UniformRing
 import Definitions.Def_Mathlib_Algebra_Algebra_Hom
 
 section
