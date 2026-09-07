@@ -1,4 +1,5 @@
-import Mathlib
+import Mathlib.CategoryTheory.Subfunctor.Basic
+import Mathlib.CategoryTheory.Limits.Shapes.IsTerminal
 
 set_option autoImplicit false
 
